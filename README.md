@@ -21,3 +21,4 @@ To run the container:
 ## Running the demo
 
 > docker-compose up --build
+
